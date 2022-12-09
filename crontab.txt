@@ -1,0 +1,1 @@
+* * * * * php /var/www/app/script.php > /dev/stdout
